@@ -1,2 +1,3 @@
 # project1
-my first project for on course 
+
+This is my first project on course 
